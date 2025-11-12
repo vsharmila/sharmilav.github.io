@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sharmilav.github.io/static/css/main.5f4f1c11.css",
-    "main.js": "/sharmilav.github.io/static/js/main.337ddfb1.js",
-    "static/js/453.6264690d.chunk.js": "/sharmilav.github.io/static/js/453.6264690d.chunk.js",
-    "index.html": "/sharmilav.github.io/index.html",
-    "main.5f4f1c11.css.map": "/sharmilav.github.io/static/css/main.5f4f1c11.css.map",
-    "main.337ddfb1.js.map": "/sharmilav.github.io/static/js/main.337ddfb1.js.map",
-    "453.6264690d.chunk.js.map": "/sharmilav.github.io/static/js/453.6264690d.chunk.js.map"
+    "main.css": "/static/css/main.5f4f1c11.css",
+    "main.js": "/static/js/main.e4526c19.js",
+    "static/js/453.6264690d.chunk.js": "/static/js/453.6264690d.chunk.js",
+    "index.html": "/index.html",
+    "main.5f4f1c11.css.map": "/static/css/main.5f4f1c11.css.map",
+    "main.e4526c19.js.map": "/static/js/main.e4526c19.js.map",
+    "453.6264690d.chunk.js.map": "/static/js/453.6264690d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f4f1c11.css",
-    "static/js/main.337ddfb1.js"
+    "static/js/main.e4526c19.js"
   ]
 }
